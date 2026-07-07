@@ -28,7 +28,7 @@ class Program
     static void Main(string[] args)
     {
         // 🧑‍💻 Create an Employee object and give it a name
-        Employee employee = new Employee() { Name = "Alice" };
+        Employee employee = new Employee() { Name = "WafaaJameel" };
 
         // 🔄 Step 5: Use polymorphism
         // Even though 'employee' is an Employee, we can treat it as an IQuittable because Employee implements IQuittable.
