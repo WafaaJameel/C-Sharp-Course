@@ -3,7 +3,7 @@
 
 This repository contains my projects and exercises completed during a C# and .NET course. It showcases practical applications of core concepts like object-oriented programming, web development with ASP.NET MVC, and database integration using Entity Framework.
 
-## Features
+## Featured Projects
 
 - Object-Oriented Programming (OOP): Encapsulation, inheritance, polymorphism, and interfaces.
 
